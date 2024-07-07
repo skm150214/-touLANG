@@ -23,7 +23,8 @@ syntax (bad) (ignore the #) (cells are idxs):
 #ext to exit block
 
 # lang 2ndblock:
-#.w for width (default: 20)
+#.w for width (default: 20) (to: 256)
+#.h for height (default: 5) (to: 32)
 #.ptp0 // 1 disables ptps, 0 does nothing
 #ptps=(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20)
 # // sets the ptps to do stuff
