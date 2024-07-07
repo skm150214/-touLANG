@@ -1,7 +1,7 @@
 # " tou"
 
 
-syntax (bad) (ignore the #):
+syntax (bad) (ignore the #) (cells are idxs):
 
 
 
